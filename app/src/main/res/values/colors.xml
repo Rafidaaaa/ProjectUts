@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- WARNA UTAMA -->
+    <color name="purple_primary">#6258F5</color>
+    <color name="purple_dark">#5147D9</color>
+    <color name="purple_light">#EEEEFF</color>
+
+    <!-- BACKGROUND -->
+    <color name="app_background">#F7F7FC</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- TEXT -->
+    <color name="text_primary">#20243A</color>
+    <color name="text_secondary">#777C96</color>
+    <color name="text_light">#9A9DB0</color>
+
+    <!-- BORDER -->
+    <color name="divider">#E8E8F0</color>
+
+</resources>
